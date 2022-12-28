@@ -15,7 +15,7 @@ I'm a software developer with a love for all things Python, Flutter, and Java. I
 
 
 ## visitor count 
-![Visitor Count](https://profile-counter.glitch.me/madvirus-ops/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/trustedcoder/count.svg)
 
 <!--
 **trustedcoder/trustedcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
