@@ -71,20 +71,18 @@ I'm a software developer with a love for all things Python, Flutter, and Java. I
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b style="font-size: 80px;">Git Activeness</b></i>
 </p>
 
- <div style="display: inline-block; margin: 10px; width: 150px; height: auto;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trustedcoder&9&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="trustedcoder" />
-        <img src="https://github-readme-stats.vercel.app/api?username=trustedcoder&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="trustedcoder" width="410"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=trustedcoder&theme=chartreuse-dark&hide_border=false" alt="trustedcoder" />
-    </div>
-
-<br>
+<div style="display: inline-block; margin: 10px; width: 150px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trustedcoder&9&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="trustedcoder" />
+    <img src="https://github-readme-stats.vercel.app/api?username=trustedcoder&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="trustedcoder" width="410"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=trustedcoder&theme=chartreuse-dark&hide_border=false" alt="trustedcoder" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=trustedcoder&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=trustedcoder&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-## visitor count 
+## Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/trustedcoder/count.svg)
 
 <!--
