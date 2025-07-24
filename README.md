@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-I'm a software developer with a love for all things Python, Flutter, and Java. I may not be a snake charmer, but I can definitely charm you with my coding skills. In my free time, you can find me trying to build the next big Flutter app or geeking out over the latest Java updates. So if you need someone to help bring your software dreams to life, give me a shout! I'll be happy to lend my expertise (and my quirky sense of humor) to the task."
+A recognised Senior Software Engineer and Innovator with over 9 years of experience developing and maintaining high-quality software solutions. I have a strong background in Python, Dart, PHP, Java, Kotlin, Swift, JavaScript, TypeScript, and SQL programming, with expertise in frameworks such as Flutter, Flask, Django, React Native, ReactJS, and Laravel.
+
+You can find my portfolio here https://celestineobi.com/
 
 <br><br>
 
